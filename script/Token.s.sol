@@ -22,4 +22,4 @@ contract TokenScript is Script {
         vm.stopBroadcast();
     }
 }
-// coment
+// coment all
